@@ -18,7 +18,7 @@ Why not? You've probably been like me and doomscrolled modpacks everywhere, look
 Enter Vanilla Exploded!
 
 - You like building, of course, but what about detailed building? We got some of that!
-- You like grizzley bears? ducks? snuffles? Freaking squeeky sheeps?! got those too! (and plushies...)
+- You like grizzly bears? Ducks? Snuffles? Freaking squeaky sheeps?! Got those too! (and plushies...)
 - Overheard your BFF talking about some sort of Ghast Cow? You can find it here!
 - Want to play sims, but with villagers? Get married and have kids? Go take an arrow to the knee and find out!
 - Wish you could replace that boring hoe with a cool scythe? Nah, me neither...but you can!
@@ -34,7 +34,7 @@ ____
 
 Look, I'm no streamer, but I still like to be able to communicate with my friends and sometimes show them sweet new caves from time to time. So I added a few popular mods to help. You are more than welcome to disable them if you have no use for them:
 
-- Simple Voice Chat (Note: A few other mods need this for a dependency...because reasons? idk)
+- Simple Voice Chat (Note: *A few other mods need this for a dependency*)
 - Replay Mod
 
 Also...
@@ -49,18 +49,17 @@ ____
 ### One Last Thing...
 Well, three things...
 
-1. **OptiFine** currently does not work for this modpack due to some issues with Fabric not playing well with it (at least for me, your results may vary) So just be warned that I attempted to work with OptiFine, but it no like Fabric...me dumb dumb, no worky...
+1. **OptiFine** currently does not work for this modpack due to some issues with Fabric not playing well with it (at least for me, your results may vary). I have attempted to use **OptiFabric**, but that mod (at the time of this writing) does not have a 1.20+ version released. Once OptiFabric updates to 1.20 I will be testing it and adding it to the pack.
 
 2. The **Immersive Portals** Mod likes to sometimes cause issues when you make portals larger than 8x8, so either take care of your portal sizes, or just disable it. That might help with any miscellaneous issue you may be having.
 
-3. The **Physics Mod** is included but disabled by default due to it breaking a few key MC physics that I consider preferred when playing MC. You are more than welcome to enable the mod when you wanna see some very funny ragdoll animals and aren't mining blocks as much.
+3. The **Physics Mod** is included but disabled by default due to it breaking a few key MC physics that I consider preferred when playing MC. You are more than welcome to enable the mod when you wanna see some very funny rag doll animals and aren't mining blocks as much.
 ____
 ### Bottom Text
-If you made it this far, Thanks. I tried really hard to make this with very little effort, and I hope you enjoy any or all of it! This is a small passion project of mine, so updates and changes might take some time.
+If you made it this far, thank you! I tried really hard to make this with very little effort, and I hope you enjoy any or all of it! This is a small passion project of mine, so updates and changes might take some time.
 
 BUT...
 
-If people like the idea and want to improve on it, Go for it! Have fun! Enjoy yourself! Play with Friends! Or just wait till I eventually update the pack and be lazy (Like me!) I may just overcome my laziness and maybe make a discord server and build a community..
+If people like the idea and want to improve on it, Go for it! Have fun! Enjoy yourself! Play with Friends! Or just wait till I eventually update the pack and be lazy (Like me!) I may just overcome my laziness and maybe make a discord server and build a community…
 
-For now, all comments and concerns can be submitted over on my [Github Issues](https://github.com/ChapDaddy65/Vanilla-Exploded/issues) page (I even have a feedback tag for general comments for standard communication.)
-
+For now, all comments and concerns can be submitted over on my [GitHub Issues](https://github.com/ChapDaddy65/Vanilla-Exploded/issues) page (I even have a feedback tag for general comments for standard communication.)
