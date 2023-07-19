@@ -49,7 +49,7 @@ ____
 ### One Last Thing...
 Well, three things...
 
-1. **OptiFine** currently does not work for this modpack due to some issues with Fabric not playing well with it (at least for me, your results may vary). I have attempted to use **OptiFabric**, but that mod (at the time of this writing) does not have a 1.20+ version released. Once OptiFabric updates to 1.20 I will be testing it and adding it to the pack.
+1. **OptiFine** currently does not work for this modpack due to some issues with Fabric not playing well with it (at least for me, your results may vary). I have attempted to use **OptiFabric**, but that mod (at the time of this writing) does not have a 1.20+ version released. Once OptiFabric updates to 1.20 I will be testing it and inform you when it's stable to run alongside VE.
 
 2. The **Immersive Portals** Mod likes to sometimes cause issues when you make portals larger than 8x8, so either take care of your portal sizes, or just disable it. That might help with any miscellaneous issue you may be having.
 
@@ -62,4 +62,6 @@ BUT...
 
 If people like the idea and want to improve on it, Go for it! Have fun! Enjoy yourself! Play with Friends! Or just wait till I eventually update the pack and be lazy (Like me!) I may just overcome my laziness and maybe make a discord server and build a community…
 
-For now, all comments and concerns can be submitted over on my [GitHub Issues](https://github.com/ChapDaddy65/Vanilla-Exploded/issues) page (I even have a feedback tag for general comments for standard communication.)
+For now, all comments and questions can be submitted over on my [GitHub Discussions](https://github.com/ChapDaddy65/Vanilla-Exploded/discussions) page.
+
+Thank you and have fun!
