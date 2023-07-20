@@ -1,3 +1,7 @@
+## [Discord](https://discord.gg/SBdHKunF3m) is now live!
+#### *Come on over and explain exactly how you could've built this modpack in 2 less redstone...*
+
+
 # Ok, so hear me out...
 I got bored and doomscrolled through Modrinth's (*at time of creation*) 132 pages of 1.20.1 compatible mods. I picked out a few (146...) mods with the idea of making a "Vanilla on steroids"-like experience with this pack.
 
