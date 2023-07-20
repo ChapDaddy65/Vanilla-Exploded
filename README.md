@@ -64,8 +64,6 @@ If you made it this far, thank you! I tried really hard to make this with very l
 
 BUT...
 
-If people like the idea and want to improve on it, Go for it! Have fun! Enjoy yourself! Play with Friends! Or just wait till I eventually update the pack and be lazy (Like me!) I may just overcome my laziness and maybe make a discord server and build a community…
-
-For now, all comments and questions can be submitted over on my [GitHub Discussions](https://github.com/ChapDaddy65/Vanilla-Exploded/discussions) page.
+If people like the idea and want to improve on it, Go for it! Have fun! Enjoy yourself! Play with Friends! Or just wait till I eventually update the pack and be lazy (Like me!) I may just overcome my laziness.
 
 Thank you and have fun!
